@@ -2,8 +2,8 @@
   <div class="Sign Up" >
     <section class="container-fluid  ">
     <section class="row justify-content-center  ">
-   <section class="col-12 col-md-4 col-lg-4 ">
-    <form class="bg-light p-md-5 p-5  " style="margin-top:4rem; border-radius:20px" >
+   <section class="col-sm-12 col-md-6 col-lg-4 ">
+    <form class="bg-light p-md-5 p-5  " style="margin-top:4rem ; border-radius:20px" >
       <h2 class="text-center">Sign Up</h2>
     <div class="form-group">
         <label for="inputEmail">Full Name</label>
