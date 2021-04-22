@@ -2,7 +2,7 @@
   <div class="our-help">
     <section class="container-fluid">
       <section class="row justify-content-center">
-        <section class="col-12 col-md-4 col-lg-4">
+        <section class="col-xs-9 col-md-7 col-lg-4">
           <form
             class="bg-light p-md-5 p-5"
             style="margin-top: 9rem; border-radius: 15px"
