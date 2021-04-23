@@ -1,6 +1,8 @@
 <template>
     <div class="header">
-            <!-- <h1>Soufiane Fatih</h1> -->
+
+     <h1 class="text-center">Soufiane Fatih</h1>
+            
      
     </div>
 </template>
