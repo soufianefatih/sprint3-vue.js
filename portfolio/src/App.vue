@@ -19,6 +19,7 @@ import About from './components/About.vue';
 import Experience from './components/Experience.vue';
 import Header from "./components/Header.vue";
 import Myproject from './components/Myproject.vue';
+import Skils from './components/Skils.vue';
 
 export default {
   name: "App",
@@ -26,7 +27,8 @@ export default {
     Header,
     About,
     Experience,
-    Myproject
+    Myproject,
+    Skils,
   }
 };
 </script>

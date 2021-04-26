@@ -7,7 +7,7 @@
         <img src="../assets/photo.jpg" class="rounded-circle" style="width:200px; height:200px;" alt="">
 </div>
  <div class="row justify-content-center mt-4">
-     <div class="col-7 column">
+     <div class="col-sm-7  column">
          <h6>WHO AM I ?</h6>
          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis aut repudiandae <br> labore
              officiis quo praesentium excepturi distinctio, 
@@ -18,7 +18,7 @@
              cumque numquam pariatur <br> nesciunt adipisci nihil corrupti recusandae? Itaque suscipit 
              molestiae maxime in.</p>
      </div>
-     <div class="col-4 column">
+     <div class="col-sm-4 column">
          <h6>HUGO BOLLON</h6>
          <div>
         <p> <span>Email:</span>chil3ayba@gmail.com</p>
