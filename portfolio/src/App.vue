@@ -21,7 +21,10 @@ import Experience from './components/Experience.vue';
 import Header from "./components/Header.vue";
 import Myproject from './components/Myproject.vue';
 import Skils from './components/Skils.vue';
+<<<<<<< HEAD
 import Footer from './components/Footer.vue';
+=======
+>>>>>>> dd0c3c65b90bb7d22e380033cd488d72862d9ac8
 
 export default {
   name: "App",
@@ -31,7 +34,10 @@ export default {
     Experience,
     Myproject,
     Skils,
+<<<<<<< HEAD
     Footer
+=======
+>>>>>>> dd0c3c65b90bb7d22e380033cd488d72862d9ac8
   }
 };
 </script>
